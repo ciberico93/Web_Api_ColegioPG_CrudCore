@@ -1,0 +1,464 @@
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\appsettings.Development.json
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\appsettings.json
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\AppColegioPG.exe
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\AppColegioPG.deps.json
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\AppColegioPG.runtimeconfig.json
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\AppColegioPG.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\AppColegioPG.pdb
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Azure.Core.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Azure.Identity.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Humanizer.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\System.CodeDom.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\System.Memory.Data.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\AppColegioPG.csproj.AssemblyReference.cache
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\AppColegioPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\AppColegioPG.AssemblyInfoInputs.cache
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\AppColegioPG.AssemblyInfo.cs
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\AppColegioPG.csproj.CoreCompileInputs.cache
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\AppColegioPG.MvcApplicationPartsAssemblyInfo.cs
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\AppColegioPG.MvcApplicationPartsAssemblyInfo.cache
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.AppColegioPG.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.build.AppColegioPG.props
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AppColegioPG.props
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AppColegioPG.props
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\staticwebassets.pack.json
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\staticwebassets.build.json
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\staticwebassets.development.json
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\scopedcss\bundle\AppColegioPG.styles.css
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\AppColegioPG.csproj.CopyComplete
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\AppColegioPG.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\refint\AppColegioPG.dll
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\AppColegioPG.pdb
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\AppColegioPG.genruntimeconfig.cache
+D:\PROYECTO CARLOS IBERICO API\AppColegioPG\obj\Debug\net7.0\ref\AppColegioPG.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\appsettings.Development.json
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\appsettings.json
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\AppColegioPG.exe
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\AppColegioPG.deps.json
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\AppColegioPG.runtimeconfig.json
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\AppColegioPG.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\AppColegioPG.pdb
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Azure.Core.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Azure.Identity.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Humanizer.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\System.CodeDom.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\System.Memory.Data.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\AppColegioPG.csproj.AssemblyReference.cache
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\AppColegioPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\AppColegioPG.AssemblyInfoInputs.cache
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\AppColegioPG.AssemblyInfo.cs
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\AppColegioPG.csproj.CoreCompileInputs.cache
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\AppColegioPG.MvcApplicationPartsAssemblyInfo.cs
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\AppColegioPG.MvcApplicationPartsAssemblyInfo.cache
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.AppColegioPG.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.build.AppColegioPG.props
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AppColegioPG.props
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AppColegioPG.props
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\staticwebassets.pack.json
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\staticwebassets.build.json
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\staticwebassets.development.json
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\scopedcss\bundle\AppColegioPG.styles.css
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\AppColegioPG.csproj.CopyComplete
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\AppColegioPG.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\refint\AppColegioPG.dll
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\AppColegioPG.pdb
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\AppColegioPG.genruntimeconfig.cache
+D:\PROYECTOS CARLOS IBERICO API's\AppColegioPG\obj\Debug\net7.0\ref\AppColegioPG.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\appsettings.Development.json
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\appsettings.json
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\AppColegioPG.exe
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\AppColegioPG.deps.json
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\AppColegioPG.runtimeconfig.json
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\AppColegioPG.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\AppColegioPG.pdb
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Azure.Core.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Azure.Identity.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Humanizer.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.CodeDom.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Memory.Data.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.csproj.AssemblyReference.cache
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.AssemblyInfoInputs.cache
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.AssemblyInfo.cs
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.csproj.CoreCompileInputs.cache
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.MvcApplicationPartsAssemblyInfo.cs
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.MvcApplicationPartsAssemblyInfo.cache
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.sourcelink.json
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets.build.json
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets.development.json
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.AppColegioPG.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.build.AppColegioPG.props
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AppColegioPG.props
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AppColegioPG.props
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets.pack.json
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\scopedcss\bundle\AppColegioPG.styles.css
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColeg.3899203E.Up2Date
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\refint\AppColegioPG.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.pdb
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.genruntimeconfig.cache
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\ref\AppColegioPG.dll
+D:\PROYECTOS CARLOS IBERICO API's\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\AutoMapper.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\appsettings.Development.json
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\appsettings.json
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\AppColegioPG.exe
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\AppColegioPG.deps.json
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\AppColegioPG.runtimeconfig.json
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\AppColegioPG.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\AppColegioPG.pdb
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\AutoMapper.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Azure.Core.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Azure.Identity.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Humanizer.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.CodeDom.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Memory.Data.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.csproj.AssemblyReference.cache
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.AssemblyInfoInputs.cache
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.AssemblyInfo.cs
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.csproj.CoreCompileInputs.cache
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.MvcApplicationPartsAssemblyInfo.cs
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.MvcApplicationPartsAssemblyInfo.cache
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.sourcelink.json
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets.build.json
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets.development.json
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.AppColegioPG.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.build.AppColegioPG.props
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AppColegioPG.props
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AppColegioPG.props
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets.pack.json
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\scopedcss\bundle\AppColegioPG.styles.css
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColeg.3899203E.Up2Date
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\refint\AppColegioPG.dll
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.pdb
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.genruntimeconfig.cache
+D:\PROYECTOS ANGULAR\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\ref\AppColegioPG.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\appsettings.Development.json
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\appsettings.json
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\AppColegioPG.exe
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\AppColegioPG.deps.json
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\AppColegioPG.runtimeconfig.json
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\AppColegioPG.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\AppColegioPG.pdb
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\AutoMapper.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Azure.Core.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Azure.Identity.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Humanizer.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.CodeDom.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Memory.Data.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.csproj.AssemblyReference.cache
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.AssemblyInfoInputs.cache
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.AssemblyInfo.cs
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.csproj.CoreCompileInputs.cache
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.MvcApplicationPartsAssemblyInfo.cs
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.MvcApplicationPartsAssemblyInfo.cache
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.sourcelink.json
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets.build.json
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets.development.json
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.AppColegioPG.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.build.AppColegioPG.props
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AppColegioPG.props
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AppColegioPG.props
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\scopedcss\bundle\AppColegioPG.styles.css
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColeg.3899203E.Up2Date
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\refint\AppColegioPG.dll
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.pdb
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\AppColegioPG.genruntimeconfig.cache
+D:\DESARROLLOS TODOS\PROYECTOS ANGULAR y API\Proyecto ColegioPG\AppColegioPG\obj\Debug\net7.0\ref\AppColegioPG.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\appsettings.Development.json
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\appsettings.json
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\AppColegioPG.exe
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\AppColegioPG.deps.json
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\AppColegioPG.runtimeconfig.json
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\AppColegioPG.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\AppColegioPG.pdb
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\AutoMapper.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Azure.Core.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Azure.Identity.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Humanizer.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\System.CodeDom.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\System.Memory.Data.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\AppColegioPG.csproj.AssemblyReference.cache
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\AppColegioPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\AppColegioPG.AssemblyInfoInputs.cache
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\AppColegioPG.AssemblyInfo.cs
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\AppColegioPG.csproj.CoreCompileInputs.cache
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\AppColegioPG.MvcApplicationPartsAssemblyInfo.cs
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\AppColegioPG.MvcApplicationPartsAssemblyInfo.cache
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\AppColegioPG.sourcelink.json
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\staticwebassets.build.json
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\staticwebassets.development.json
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.AppColegioPG.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.build.AppColegioPG.props
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AppColegioPG.props
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AppColegioPG.props
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\scopedcss\bundle\AppColegioPG.styles.css
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\AppColeg.3899203E.Up2Date
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\AppColegioPG.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\refint\AppColegioPG.dll
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\AppColegioPG.pdb
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\AppColegioPG.genruntimeconfig.cache
+D:\DESARROLLOS TODOS\PROYECTOS CARLOS IBERICO MVC\Web_Api_ColegioPG_CrudCore\AppColegioPG\obj\Debug\net7.0\ref\AppColegioPG.dll
